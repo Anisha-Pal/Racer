@@ -4,8 +4,8 @@ it is a console Car Game written in C++, where the aim is to dodge from obstacle
 # Instructions
 Avoid Cars by moving left or right. 
 
- Press 'a' to move left....
- Press 'd' to move right...
+ Press 'a' to move left\
+ Press 'd' to move right\
  Press 'escape' to exit
  
  # Gif
