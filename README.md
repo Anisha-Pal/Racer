@@ -7,3 +7,8 @@ Avoid Cars by moving left or right.
  Press 'a' to move left....
  Press 'd' to move right...
  Press 'escape' to exit
+ 
+ 
+ ![RacerGif](https://user-images.githubusercontent.com/87127577/129470379-94d660f3-3007-442a-b323-5dbd2e67a1fe.gif)
+ 
+ feel free to play with code, if you have crazy ideas, then pull request :)
